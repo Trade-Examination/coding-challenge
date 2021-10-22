@@ -1,8 +1,8 @@
 # TradeX Coding Challenge
 
-Create a Node.js API with basic CRUD functionality
+Create an API with basic CRUD functionality
 
-Create a React app that consumes the the API
+Create a frontend app that consumes the the API
 
 Note: have fun with it and let your personality show
 
