@@ -1,4 +1,4 @@
-# TradeX Coding Challenge
+# Tractiv Coding Challenge
 
 Create an API with basic CRUD functionality
 
