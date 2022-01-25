@@ -2,11 +2,15 @@
 
 Create a webapp that consumes the following API:
 
-https://swapi.dev/documentation#intro
+https://github.com/r-spacex/SpaceX-API
 
 Requirements:
-Display data from the API in a list
-Add a couple of charts to showcase a few total counts
+Display a list of the launches
+Calculate the success rate and display in a pie chart
+
+BONUS:
+Create a dynamic details page of each launch
+Utilize other endpoints of the API (Show us your creativity)
 
 Use any framework to get the job done
 
